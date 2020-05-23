@@ -19,7 +19,7 @@ Thời gian hoàn thành: 2h
 
 ## Video kết quả.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/421822538p)
+[![Watch the video](https://i.imgur.com/IlT7M96.jpg)](https://vimeo.com/421822538p)
 
 
 ## Ngôn ngữ và thư viện:
